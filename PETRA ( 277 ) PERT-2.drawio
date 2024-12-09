@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Halaman-1" id="HrnfZUmENm2fAXA8dBIw">
+    <mxGraphModel dx="888" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.369;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4700" y="1590" as="sourcePoint" />
+            <mxPoint x="4701" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4949.44" y="1140" as="sourcePoint" />
+            <mxPoint x="4949.44" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-16" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4459.33" y="820" as="sourcePoint" />
+            <mxPoint x="4459.33" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-15" value="&lt;b&gt;Mulai&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#87FFFB;" vertex="1" parent="1">
+          <mxGeometry x="4385" y="760" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-17" value="&lt;b&gt;Membuat&lt;/b&gt;&lt;div&gt;&lt;b&gt;Faktur&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#d79b00;fillColor=#DA82FF;gradientColor=#CABAFF;" vertex="1" parent="1">
+          <mxGeometry x="4400" y="890" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-19" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4459.33" y="960" as="sourcePoint" />
+            <mxPoint x="4459.33" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-20" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#A5FF70;" vertex="1" parent="1">
+          <mxGeometry x="4400" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-21" value="&lt;b&gt;Faktur&lt;/b&gt;&lt;div&gt;&lt;b&gt;Penjualan&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tunai&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#61FF4F;" vertex="1" parent="1">
+          <mxGeometry x="4420" y="1060" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-23" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4550" y="1104.44" as="sourcePoint" />
+            <mxPoint x="4910" y="1104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-24" value="&lt;b&gt;Menerima&lt;/b&gt;&lt;div&gt;&lt;b&gt;Kas dari&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Konsumen&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FF9A36;" vertex="1" parent="1">
+          <mxGeometry x="4890" y="1065" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-26" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FF784F;" vertex="1" parent="1">
+          <mxGeometry x="4890" y="1210" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-27" value="&lt;b&gt;Faktur&lt;/b&gt;&lt;div&gt;&lt;b&gt;Penjualan&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tunai&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FF5A47;" vertex="1" parent="1">
+          <mxGeometry x="4910" y="1230" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-28" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4700" y="1260" as="sourcePoint" />
+            <mxPoint x="4890" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4700" y="1260" as="sourcePoint" />
+            <mxPoint x="4700" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-30" value="&lt;b&gt;Menyerahkan&lt;/b&gt;&lt;div&gt;&lt;b&gt;Barang ke&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Konsumen&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FF85A1;" vertex="1" parent="1">
+          <mxGeometry x="4640" y="1350" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-31" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4700" y="1430" as="sourcePoint" />
+            <mxPoint x="4700" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="lXQnQuzP0RMfpxhFZv0N-32" target="lXQnQuzP0RMfpxhFZv0N-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-32" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.375;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="4650" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-33" value="&lt;b&gt;Faktur&lt;/b&gt;&lt;div&gt;&lt;b&gt;Penjualan&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Tunai&lt;/b&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#9AC7BF;" vertex="1" parent="1">
+          <mxGeometry x="4670" y="1520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-37" value="&lt;b&gt;Konsumen&lt;/b&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="4640" y="1650" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-39" value="&lt;b&gt;Diarsip untuk bukti sektor&lt;/b&gt;&lt;div&gt;&lt;b&gt;kas sore hari&lt;/b&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="4500" y="1500" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-43" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5030" y="1270" as="sourcePoint" />
+            <mxPoint x="5090" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5080" y="1270" />
+              <mxPoint x="5030" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-44" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;FPT&lt;/b&gt;&lt;div&gt;&lt;b&gt;Ditandatangani&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;dan dicap lunas&lt;/b&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#3526FF;strokeColor=#d79b00;gradientColor=#D4FFFE;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="1180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-45" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 15px; background-color: rgb(102, 255, 255);&quot;&gt;Front Office&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="4390" y="690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-52" value="&lt;b style=&quot;background-color: rgb(153, 204, 255);&quot;&gt;Flowchart Penjualan Tunai&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="4690" y="610" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-54" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;rotation=-25;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="4900" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rotation=15;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="4670" y="590" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#FF0080;" vertex="1" parent="1">
+          <mxGeometry x="4380" y="690" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun;rotation=15;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="4518.88" y="1038.54" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;rotation=-30;fillColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="4488.879999999999" y="1590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lXQnQuzP0RMfpxhFZv0N-59" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=50;stepSize=15;rounded=0;strokeColor=#FF8000;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="4675" y="1280" as="sourcePoint" />
+            <mxPoint x="4745" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
